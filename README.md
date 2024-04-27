@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I'm currently finishing up my BSc at MMU
+- 🌱 I’m currently learning Unreal Game's Development
+- 👯 I’m looking to collaborate on developing a game
 <!--
 **DemonwarriorJL/DemonwarriorJL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
