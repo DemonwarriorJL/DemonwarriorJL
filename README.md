@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm currently finishing up my BSc at MMU
+- 🔭 I'm have finished my BSc at MMU with a First Class Honours
 - 🌱 I’m currently learning Unreal Game's Development
 - 👯 I’m looking to collaborate on developing a game
 <!--
