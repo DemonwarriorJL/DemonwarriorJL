@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I'm have finished my BSc at MMU with a First Class Honours
+- 🪚 I have been experimenting with 3d Printing
+- ⚔️ List of ongoing projects:
+  - 📆 Android Productiviy App
+  - 💻 Converting Laptop OS from Windows to Linux
+  - 🔥 Designing a spice rack using 3D printer
 - 🌱 I’m currently learning Unreal Game's Development
 - 👯 I’m looking to collaborate on developing a game
 <!--
